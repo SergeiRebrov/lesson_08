@@ -1,0 +1,38 @@
+.block {
+	width: 150px;
+	height: 150px;
+	margin: 50px ;
+	background: rgb(131, 101, 133);
+	}
+	
+ .block2 {
+		width: 150px;
+		height: 150px;
+		margin: 50px ;
+		background-repeat: no-repeat;
+		text-align: center;
+	}
+
+	.color3 {
+		width: 150px;
+		height: 150px;
+		margin: 50px ;
+		background: rgb(15, 62, 190);
+	}
+
+	.block1 {
+		width: 150px;
+		height: 150px;
+		margin: 50px ;
+		background: rgb(228, 80, 12);
+	}
+
+	.block44 {
+		width: 150px;
+		height: 150px;
+		margin: 50px ;
+		background: rgb(228, 80, 12);
+	}
+
+	
+	
